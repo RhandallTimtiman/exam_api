@@ -1,4 +1,4 @@
-# # UserManagement-NodeJS
+# User Management
 A User Management System CRUD using Mysql and Express
  
 # Setup
