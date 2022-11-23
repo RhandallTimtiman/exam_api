@@ -1,4 +1,4 @@
-const userDao = require("../dao/user.dao");
+const userDao = require("../service/user.service");
 
 const addUser = (req, res) => {
   let user = req.body;
