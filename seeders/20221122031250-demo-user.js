@@ -7,6 +7,11 @@ module.exports = {
       firstName: 'John',
       lastName: 'Doe',
       email: 'example@example.com',
+      postCode: 'test',
+      address: 'Test Address',
+      phoneNumber: '983948394839',
+      userName: 'Test',
+      password: 'Test',
       createdAt: new Date(),
       updatedAt: new Date()
     }]);
